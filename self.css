@@ -617,7 +617,7 @@ img {
 
 .services_container {
   gap: 1.5rem;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .services__content {
@@ -970,7 +970,7 @@ img {
   .project__container,
   .contact__container,
   .footer__container {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
   }
 
   .qualification__section {
